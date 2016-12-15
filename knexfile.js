@@ -2,9 +2,9 @@
 
 module.exports = {
 
-development: {
-  client: 'pg',
-  connection: 'postgres://localhost/sticker-mania'
-}
+  development: {
+    client: 'pg',
+    connection: 'postgres://localhost/sticker-mania'
+  }
 
 };
